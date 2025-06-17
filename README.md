@@ -54,7 +54,7 @@
 | 📈 **Metric** | 📊 **Value** | 🎯 **Achievement** |
 |---------------|--------------|-------------------|
 | **Projects Completed** | `5+` | 🚀 **Growing Portfolio** |
-| **Datasets Analyzed** | `15+` | 📊 **1K to 1M+ records** |
+| **Datasets Analyzed** | `15+` | 📊 **1K to 10M+ records** |
 
 </div>
 
